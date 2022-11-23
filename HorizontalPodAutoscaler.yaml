@@ -22,5 +22,5 @@ spec:
         averageUtilization: 10
 status:
   currentReplicas: 1
-  desiredReplicas: 1
+  desiredReplicas: 3
 
