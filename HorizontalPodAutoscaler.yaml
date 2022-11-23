@@ -21,6 +21,6 @@ spec:
         type: Utilization
         averageUtilization: 10
 status:
-  currentReplicas: 2
+  currentReplicas: 1
   desiredReplicas: 1
 
